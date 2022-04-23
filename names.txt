@@ -1,0 +1,7 @@
+Hi, world.
+I am using vi editor of linux in windows
+It comes with many features like
+1. Insert mode 
+2. Command mode 
+3. Escape mode
+
